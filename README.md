@@ -1,4 +1,12 @@
-# 201902001046
+# 2019年国赛-同心鼓
+
+队员：[@AllenOris](https://github.com/AllenOris), [@lifengheng](https://github.com/lifengheng), [@HughShine](https://github.com/HughShine)
+
+最终奖项：国二。
+
+**仅供参考。**
+
+## repo
 
 用于2019国赛归档。若需要某个文件/文件夹，建议使用chrome-gitzip插件，选择性下载。
 
